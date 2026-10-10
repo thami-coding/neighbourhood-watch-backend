@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NeighbourhoodWatch.Api/NeighbourhoodWatch.Api.csproj" Id="dfbed818-0dfe-43de-9e47-3033e9cfa9b7" />
+    <Project Path="src/NeighbourhoodWatch.Application/NeighbourhoodWatch.Application.csproj" Id="3482e6a5-f3b9-49b7-a915-9f9fddd3fe05" />
+    <Project Path="src/NeighbourhoodWatch.Domain/NeighbourhoodWatch.Domain.csproj" Id="c122957b-0501-4bf1-aff9-3af4a013b512" />
+    <Project Path="src/NeighbourhoodWatch.Infrastructure/NeighbourhoodWatch.Infrastructure.csproj" Id="0dcf7b20-5fb1-4008-92ff-164fc00aeb40" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
